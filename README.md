@@ -8,4 +8,4 @@ The place will obviously be under eternal construction and updating
 
 ## Readings
 
-[Linear_Motion (3).pdf](xx)
+[Motion along a Straight Line](Linear_Motion (3).pdf)
