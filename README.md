@@ -8,5 +8,4 @@ The place will obviously be under eternal construction and updating
 ## Readings
 
 1. [The Unit Circle and Trigonometry](notes/The_Unit_Circle_and_Trigonometry.pdf) This will become handy at some point.
-
-2. [Motion along a Straight Line](notes/LINEAR-MOTION-I.pdf)
+2.  [Motion along a Straight Line](notes/LINEAR-MOTION-I.pdf)
